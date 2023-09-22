@@ -1,4 +1,4 @@
-- Hi, I’m @JimKennedyMidokura
+- Hi, I’m @JimKennedy
 - I’m interested in our documentation
 - I’m currently learning some stuff
   - Sphinx for generating html pages from .rst files in Github
